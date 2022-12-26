@@ -1,0 +1,12 @@
+.footer-div {
+    text-align: center;
+    background-color: rgb(184, 184, 184);   
+
+    vertical-align: text-top !important;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.material-icons {
+    vertical-align: middle;
+}

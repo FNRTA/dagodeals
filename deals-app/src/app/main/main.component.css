@@ -1,0 +1,17 @@
+.card-item {
+    width: 400px;
+    height: 250px;
+    margin: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    font-family: 'Lato', sans-serif;
+    background-color: #f1f1f1;
+    color: #333333;
+    margin: 20px;
+    transition: 0.2s;
+}
+
+.card-item:hover {
+    transform: rotate(0.5deg);
+    background-color: aliceblue;
+}
