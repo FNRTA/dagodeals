@@ -1,0 +1,2 @@
+# dagodeals
+Deals publishing app
